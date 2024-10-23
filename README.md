@@ -1,6 +1,6 @@
 
 ### 🥇 How many people visit my profile :
-<img src="https://komarev.com/ghpvc/?username=cuong02n&style=flat-square&color=blue" alt=""/>
+<img width="300" height="50" src="https://komarev.com/ghpvc/?username=cuong02n&style=flat-square&color=blue" alt=""/>
 
 ### 🔥 My art :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=cuong02n)](https://git.io/streak-stats)
