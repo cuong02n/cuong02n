@@ -17,4 +17,6 @@
 
 
 ### 🐍 Oh, the snake is eating my contribution :
+<picture>
 <img alt="github-snake" src="https://raw.githubusercontent.com/cuong02n/cuong02n/output/github-contribution-grid-snake.svg" />
+</picture>
