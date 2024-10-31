@@ -17,7 +17,7 @@
 
 ### 🧠 My lang :
 <picture>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuong02n&hide=html,dart,CMake,C#&langs_count=6"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuong02n&hide=html,dart,CMake,C#,CSS&langs_count=6"/>
 </picture>
 
 ### 🐍 Oh, the snake is eating my contribution :
